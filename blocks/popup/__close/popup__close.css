@@ -1,0 +1,1 @@
+.popup__close{background:transparent url(../../../images/close.svg) 50% no-repeat;background-size:35px 35px;border:none;cursor:pointer;height:35px;margin:0;padding:0;position:absolute;right:-34px;top:-36px;transform:rotate(90deg);transition:visibility 0s,opacity .3s;width:35px}.popup__close:hover{opacity:.6}
